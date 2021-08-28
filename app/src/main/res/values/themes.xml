@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.339" parent="@android:style/Theme.Translucent.NoTitleBar" />
+</resources>
